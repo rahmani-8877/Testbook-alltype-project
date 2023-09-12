@@ -1,0 +1,11 @@
+
+h2{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ4JOfWS2p90o0dEWQk5OPffgaX_fWdSkab2N1QJ84vyjYues7UktetDo5uVDZ16VoTo4&usqp=CAU);
+    -webkit-background-clip: text;
+    color: transparent;
+    font-size: 50px;
+    background-size: 40px;
+}
+.lko{
+    text-shadow: 5px 3px 10px red, 5px 3px 2px blue, 5px 3px 2px green;
+}
